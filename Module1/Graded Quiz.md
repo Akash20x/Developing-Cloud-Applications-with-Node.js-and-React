@@ -7,8 +7,8 @@ False
 Which of the following applications intercepts the call when JavaScript sends a web service request to the Node.js server?<br>
 REST Web Service
 
-What is the best description of Node.js?
+What is the best description of Node.js?<br>
 A server-side programming framework that uses JavaScript as its programming language
 
-How do you handle operation results with Node.js?
+How do you handle operation results with Node.js?<br>
 Write callback functions to handle results when the operations complete
